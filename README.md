@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at https://myporfolio-app.netlify.app/
 
-- 💬 Ask me about **HTML, CSS, Java, SQL**
+- 💬 Ask me about **HTML, CSS, Java, React, SQL**
 
 - 📫 How to reach me **saisriram.g18@outlook.com**
 
