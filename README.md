@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Angular, Spring framework**
 
-- 👨‍💻 All of my projects are available at https://myporfolio-app.netlify.app/
+- 👨‍💻 All of my projects are available at https://saisriramgundepalli.netlify.app/
 
 - 📫 How to reach me **saisriram.g18@outlook.com**
 
