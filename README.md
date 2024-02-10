@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sai Sriram Gundepalli</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
-- 🌱 I’m currently learning **React, Angular, Spring framework**
+- 🌱 I’m currently learning **ReactJS, Angular, Spring framework**
 
 - 👨‍💻 All of my projects are available at https://myporfolio-app.netlify.app/
 
-- 💬 Ask me about **HTML, CSS, Java, React, SQL**
-
 - 📫 How to reach me **saisriram.g18@outlook.com**
 
-- 📄 Know about my experiences [https://sriram0418.netlify.app/resume.pdf](https://sriram0418.netlify.app/resume.pdf)
+- 📄 Know about my experiences [https://saisriramgundepalli.netlify.app/resume.pdf](https://saisriramgundepalli.netlify.app/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
