@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisriramgit&label=Profile%20views&color=0e75b6&style=flat" alt="saisriramgit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saisriramgit" alt="saisriramgit" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sri_ramtweets" target="blank"><img src="https://img.shields.io/twitter/follow/sri_ramtweets?logo=twitter&style=for-the-badge" alt="sri_ramtweets" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS, Angular, Spring Boot, and DSA**
+- 🌱 I’m currently learning **Full Stack Development and System Design**
 
 - 👨‍💻 All of my projects are available at [https://saisriramgundepalli.netlify.app/](https://saisriramgundepalli.netlify.app/)
 
