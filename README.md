@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **saisriram.g18@outlook.com**
 
-- 📄 Know about my experiences [https://saisriramgundepalli.netlify.app/resume.pdf](https://saisriramgundepalli.netlify.app/resume.pdf)
-
 - ⚡ Fun fact **I code, therefore I am**
 
 <h3 align="left">Connect with me:</h3>
