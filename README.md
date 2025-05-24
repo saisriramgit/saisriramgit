@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisriramgit&label=Profile%20views&color=0e75b6&style=flat" alt="saisriramgit" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sri_ramtweets" target="blank"><img src="https://img.shields.io/twitter/follow/gundssr?logo=twitter&style=for-the-badge" alt="gundssr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gundssr" target="blank"><img src="https://img.shields.io/twitter/follow/gundssr?logo=twitter&style=for-the-badge" alt="gundssr" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Development and System Design**
 
